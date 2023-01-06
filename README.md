@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santi1976&label=Profile%20views&color=0e75b6&style=flat" alt="santi1976" /> </p>
 
-- 🔭 I’m currently working on **my project 'Guess your character from Middle Earth"**
+- 🔭 I have completed Digital House bootcamp "FullStack Developer" and  currently working on side projects.
 
-- 🌱 I’m currently learning **Cypress and WebdriverIO**
+- 🌱 I’m currently learning **Cypress, WebdriverIO and React**
 
 - 📫 How to reach me **santiso@gmail.com**
 
