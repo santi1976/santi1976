@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/santiso/](https://www.linkedin.com/in/santiso/)
 
-- ⚡ Fun fact **I love videogames, tv shows and anime**
+- ⚡ Fun fact **I love videogames, tv shows and movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
