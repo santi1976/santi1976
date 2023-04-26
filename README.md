@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santi1976&label=Profile%20views&color=0e75b6&style=flat" alt="santi1976" /> </p>
 
-- 🔭 I have completed Digital House bootcamp "FullStack Developer" and  currently working on side projects.
+- 🔭 I have completed Digital House bootcamp "FullStack" Developer and  currently working on side projects.
 
 - 🌱 I’m currently learning **Cypress, WebdriverIO and React**
 
