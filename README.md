@@ -5,7 +5,7 @@
 
 - 🔭 I have completed Digital House bootcamp "FullStack" Developer and  currently working on side projects.
 
-- 🌱 I’m currently learning **Cypress, WebdriverIO and React**
+- 🌱 I’m currently learning **Cypress, WebdriverIO**
 
 - 📫 How to reach me **santiso@gmail.com**
 
